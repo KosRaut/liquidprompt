@@ -350,7 +350,7 @@ _lp_source_config()
     LP_MARK_PROXY="${LP_MARK_PROXY:-"↥"}"
     LP_MARK_HG="${LP_MARK_HG:-"☿"}"
     LP_MARK_SVN="${LP_MARK_SVN:-"‡"}"
-    LP_MARK_GIT="${LP_MARK_GIT:-"±"}"
+    LP_MARK_GIT="${LP_MARK_GIT:-"►"}"
     LP_MARK_VCSH="${LP_MARK_VCSH:-"|"}"
     LP_MARK_FOSSIL="${LP_MARK_FOSSIL:-"⌘"}"
     LP_MARK_BZR="${LP_MARK_BZR:-"⚯"}"
